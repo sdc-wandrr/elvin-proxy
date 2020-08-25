@@ -16,7 +16,7 @@
 
 ## Usage
 
-> Some usage instructions
+> PLEASE NOTE:  this proxy server is set up so that it should be able to run locally and in production. One thing to note is that when it was used in production, I made manual routing of all API calls in my Nginx sites-available file to all the separate services. If you encounter any issues connecting the services when live on ec2, you may need to do the same using Nginx. 
 
 ## Requirements
 
