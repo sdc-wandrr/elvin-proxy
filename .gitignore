@@ -24,4 +24,5 @@ coverage
 build/
 dist/
 publid/bundle.js
+newrelic.js
 
