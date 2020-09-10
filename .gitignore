@@ -24,4 +24,6 @@ coverage
 build/
 dist/
 publid/bundle.js
+newrelic.js
+package-lock.json
 
